@@ -2,7 +2,7 @@
 title: Touwaya
 SEOTitle: Touwa's home
 header-img: img/home.png
-email: YujiaZhang@my.swjtu.edu.cn
+email: 1043024734@qq.com
 description: "We are what we repeatedly do. Excellence is not an act, but a habit"
 keyword: "Physics, Optics"
 url: "https://Touwaya.github.io"          # your host, for absolute URL
@@ -98,9 +98,11 @@ friends: [
     {
         title: "微博：Touwa啊",
         href: "https://weibo.com/u/5610397764"
-    },{
+    }
+    {
         title: "小红书：蛙蛙怪"
-    },{
+    }
+    {
         title: "知乎：系存在",
         href: "https://www.zhihu.com/people/xi-cun-zai"
     }
