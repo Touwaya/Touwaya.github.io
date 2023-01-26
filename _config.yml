@@ -94,3 +94,14 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+friends: [
+    {
+        title: "微博：Touwa啊",
+        href: "https://weibo.com/u/5610397764"
+    },{
+        title: "小红书：蛙蛙怪"
+    },{
+        title: "知乎：系存在",
+        href: "https://www.zhihu.com/people/xi-cun-zai"
+    }
+]
