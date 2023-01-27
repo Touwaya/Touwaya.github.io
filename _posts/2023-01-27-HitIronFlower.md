@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      打铁花的物理
+title:      打铁花
 date:       2023-01-27
 author:     Yujia Zhang
 header-img: img/Casual/打铁花.jpeg
