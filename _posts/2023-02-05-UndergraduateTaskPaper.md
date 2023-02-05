@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      本科毕设
-subtitle:   硕士生活
+subtitle:   本科生活
 date:       2023-02-05
 author:     Yujia Zhang
 header-img: img/Casual/毕设.jpeg
