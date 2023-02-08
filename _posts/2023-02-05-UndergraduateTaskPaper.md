@@ -7,7 +7,7 @@ author:     Yujia Zhang
 header-img: img/Casual/毕设.jpeg
 catalog: 	  true
 tags:
-    - 生活记录
+    - 随笔杂谈
 ---
 
 ### 第一次租房
