@@ -23,7 +23,7 @@ tags:
 而电荷转移态是一个热态，一部分热的电荷转移态发生电荷分离形成自由电荷。
 在金属电极作用下，自由电荷形成电流；另一部分电荷转移态弛豫到了能量更低的三线态或者基态。
 同样地，光激发后的一部分激子也可能会通过辐射回到基态。
-![光电转化图像] ({{site.baseurl}}/img-post/Master/2023-02-14-ultrafastSpectroscopy11.jpg)
+![光电转化图像]({{site.baseurl}}/img-post/Master/2023-02-14-ultrafastSpectroscopy11.jpg)
 
 2、S-Q极限
 
