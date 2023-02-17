@@ -4,7 +4,7 @@ title:      有机光伏的超快动力学研究
 subtitle:   超快光谱实验室
 date:       2023-02-14
 author:     Yujia Zhang
-header-img: img/master/有机光伏.jpeg
+header-img: img/master/超快光谱.jpg
 catalog: 	  true
 tags:
     - 科研学习
