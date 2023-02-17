@@ -4,7 +4,7 @@ title:      器件购买记录
 subtitle:   超快光谱实验室
 date:       2023-02-17
 author:     Yujia Zhang
-header-img: img/master/超快光谱.jpeg
+header-img: img/master/超快光谱.jpg
 catalog: 	  true
 tags:
     - 随笔杂谈
