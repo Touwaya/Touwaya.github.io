@@ -19,8 +19,9 @@ tags:
 * 10万以上申请流程较繁杂，控制预算在10万以内。因此，我们购买了4件EOM。
 * 核对确认订单后，附上南京大学合同模板，注明收件人及电话。**合同模板的同时需要注明单面打印，加盖合同章和骑缝章，一式四份邮寄到收货地址**。并询问预付款等截止时间。
 * 合同邮寄到唐楼后，邮件和李晓春老师确认合同甲方是张老师后，联系张老师签字。
-* 最终发送邮件内容 **Thorlab申购单 & 合同盖章照片**。
-![thorlabs申购单](https://github.com/Touwaya/Touwaya.github.io/blob/master/img-post/Master/2023-02-24-EUS.png)
+* 需要提交4份合同，1份申购卡，3份报价单给严秘书，她走流程报账。
+* 最后发送邮件内容 **ThorlabEUS单 & 合同盖章照片**。
+![thorlabsEUS单](https://github.com/Touwaya/Touwaya.github.io/blob/master/img-post/Master/2023-02-24-EUS.png)
 
 ### 注意事项
 * 购买预算2万以上需要办申请卡。
