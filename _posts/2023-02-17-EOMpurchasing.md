@@ -23,7 +23,7 @@ tags:
 * 需要提交4份合同，1份申购卡，3份报价单给严秘书，她走流程报账。
 * 最后发送邮件内容 **ThorlabEUS单 & 合同盖章照片**。
 * 收到货物和发票后，联系严秘书，走剩下款支付流程。
-![thorlabsEUS单](https://github.com/Touwaya/Touwaya.github.io/blob/master/img-post/Master/2023-02-24-EUS.png)
+![thorlabsEUS单](https://github.com/Touwaya/Touwaya.github.io/blob/master/img-post/Master/2023-02-24-EUS.jpg)
 
 ### 注意事项
 * 购买预算2万以上需要办申请卡。
